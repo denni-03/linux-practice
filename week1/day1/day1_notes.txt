@@ -1,0 +1,16 @@
+DAY 1 - Linux File System
+
+commands practiced:
+pwd
+ls, ls -l, ls -a
+cd, cd ~, cd ..
+mkdir, touch
+cp, mv, rm
+cat, less
+find, grep
+
+Learnings:
+- Linux uses tree structure
+- /etc stores configs
+- /var/log stores logs
+- rm -rf is dangerous
